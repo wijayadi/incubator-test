@@ -19,7 +19,7 @@
 
 namespace Phalcon\Incubator\Test\Tests\Unit\Traits;
 
-use Phalcon\Config;
+use Phalcon\Config\Config;
 use Phalcon\Incubator\Test\Codeception\UnitTestCase as Unit;
 use Phalcon\Incubator\Test\Traits\UnitTestCase;
 use PHPUnit_Framework_MockObject_MockObject;
